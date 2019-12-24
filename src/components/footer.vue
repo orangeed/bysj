@@ -1,5 +1,5 @@
 <template>
-  <div id="footer">this is a footer page</div>
+  <div id="footer">@2019 橘子orange</div>
 </template>
 <script>
 export default {
@@ -14,5 +14,7 @@ export default {
   height: 3rem;
   background-color: #d6d5d5;
   line-height: 3rem;
+  margin-top: 2rem;
+  text-align: center;
 }
 </style>
